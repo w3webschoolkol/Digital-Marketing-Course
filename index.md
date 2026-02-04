@@ -17,8 +17,8 @@ Not all courses match current industry needs. A modern program should emphasize 
 A practical Digital Marketing Course in Kolkata typically focuses on hands-on learning with updated tools and live-use cases. This approach prepares learners to work on real campaigns and solve real business problems.
 
 You can review a detailed course overview here:
-Digital Marketing Course in Kolkata
-https://www.w3webschool.com/digital-marketing-course-in-kolkata/
+[Digital Marketing Course in Kolkata](https://www.w3webschool.com/digital-marketing-course-in-kolkata/)
+
 
 Core Skills You Should Learn
 
@@ -65,5 +65,5 @@ Final Thoughts
 Digital marketing is not a short-term trend. In 2026, it is a long-term career skill. Choosing a course with updated content and practical training can significantly improve career prospects.
 
 To explore course structure and learning outcomes in detail, visit:
-Digital Marketing Course in Kolkata
-https://www.w3webschool.com/digital-marketing-course-in-kolkata/
+[Digital Marketing Course in Kolkata](https://www.w3webschool.com/digital-marketing-course-in-kolkata/)
+
